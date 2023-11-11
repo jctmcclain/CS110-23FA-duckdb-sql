@@ -1,4 +1,4 @@
-# CS110-23FA Duckdb SQL
+# CS110-23FA DuckDB SQL
 
 ### Swimming Application Collaboration
 
