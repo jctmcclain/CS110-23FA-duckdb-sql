@@ -21,7 +21,7 @@ We will be developing the Python code to create a [DuckDB](https://duckdb.org/) 
 
 ### Key points 
 
-| Property      | value          | 
+| Property      | Value          | 
 | ------------  | -------------- |
 | Name          | swimmingdb     |
 | Database Type | DuckDB         |
