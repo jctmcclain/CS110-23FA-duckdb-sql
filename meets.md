@@ -9,7 +9,7 @@
 import duckdb
 
 #  Create connection
-con = duckdb.connection("database.db")
+con = duckdb.connection("swimmingdb.db")
 
 #  Add SQL Statement
 strSQL = 'CREATE OR REPLACE TABLE meets(m_id integer primary key, 
