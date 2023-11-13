@@ -1,5 +1,5 @@
 # Develop the Python Code to:
-* create the swimmers table
+* create the swimmers table - [Project SQL Statements](https://github.com/jctmcclain/Python-Intro/blob/main/swimmingapp/database-notes.md)
 * insert data
 
 ```python
