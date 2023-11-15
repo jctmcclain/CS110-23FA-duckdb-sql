@@ -1,7 +1,7 @@
 # Develop the Python Code to:
-[x] create the meets table - [Project SQL Statements](https://github.com/jctmcclain/Python-Intro/blob/main/swimmingapp/database-notes.md)
-[ ] insert data
-[x] select data
+- [x] create the meets table - [Project SQL Statements](https://github.com/jctmcclain/Python-Intro/blob/main/swimmingapp/database-notes.md)
+- [ ] insert data
+- [x] select data
 
 ```python
 # Add your Python Code
