@@ -7,3 +7,8 @@ Hello
 ```python
 print("Hello World")
 ```
+
+### Java Code 
+```java
+// No Java Code Here
+```
