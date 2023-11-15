@@ -12,3 +12,9 @@ con.sql('CREATE OR REPLACE TABLE swimmers(s_id integer primary key, firstname va
 con.sql('create sequence swimmerid start 10')
 con.close()
 ```
+
+
+# SQL Statement for Swimmers - Not Pythonized
+```sql
+insert into swimmers values(nextval('swimmerid'),'Betty','Backstroker','FR','Huntingdon,PA','Huntingdon Area','betty@swim.cc','women');
+```
