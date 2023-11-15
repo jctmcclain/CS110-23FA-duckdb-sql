@@ -3,7 +3,9 @@
 * insert data
 
 ```python
-# Add your Python Code
-print("Hello World")
-# Stop your Python Code
+import duckdb
+
+con = duckdb.connect('swimmingdb.db')
+con.sql('')
+con.close()
 ```
