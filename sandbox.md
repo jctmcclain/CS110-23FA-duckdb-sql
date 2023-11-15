@@ -1,9 +1,10 @@
 # Practice using Github Markdown here
 
-Hello
-Hello 
+## Hello World Samples
 
-## Sample Hello World code 
+### Sample Hello World code 
+
+helloworld.py
 ```python
 print("Hello World")
 ```
@@ -20,5 +21,8 @@ class HelloWorld {
     }
 }
 
-// javac helloworld.java
+/* 
+Remember you have to compile Java:
+javac helloworld.java
+*/
 ```
