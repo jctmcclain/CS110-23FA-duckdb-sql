@@ -6,4 +6,6 @@
 import duckdb
 
 con = duckdb.connect('swimmingdb.db')
+con.sql('')
+con.close()
 ```
