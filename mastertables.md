@@ -1,6 +1,6 @@
 # Complete listing to create tables 
 
-``python
+```python
 
 import duckdb
 
